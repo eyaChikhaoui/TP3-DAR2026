@@ -1,0 +1,14 @@
+
+# Fichiers Java compilés
+*.class
+
+# Dossiers de compilation
+bin/
+target/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+
+# Configuration locale des IDE
+.idea/
